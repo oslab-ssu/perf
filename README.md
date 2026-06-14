@@ -1,4 +1,4 @@
-# SNN-DNN Nsight-Systems Profiling 
+# SNN-DNN Perf Profiling 
 
 
 ## 환경 세팅 (Prerequisites)
