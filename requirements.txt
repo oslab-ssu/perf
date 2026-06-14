@@ -1,0 +1,2 @@
+snntorch==0.9.4
+torch==2.6.0
